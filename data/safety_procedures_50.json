@@ -1,0 +1,1260 @@
+[
+    {
+        "procedureId": "CONF-001",
+        "title": "Confined Space Communication Protocol",
+        "description": "Guidelines for confined space communication protocol",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Use appropriate PPE"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Assess the confined space for hazards"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Obtain necessary permits"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Monitor the atmosphere"
+            }
+        ],
+        "lastUpdated": "2024-01-13T08:53:38.621899"
+    },
+    {
+        "procedureId": "HEIGHTS-002",
+        "title": "Scaffold Safety Procedure",
+        "description": "Guidelines for scaffold safety procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Ensure fall protection gear is worn"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Maintain three points of contact"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Identify potential hazards"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Check equipment and anchor points"
+            }
+        ],
+        "lastUpdated": "2023-12-26T08:53:38.621930"
+    },
+    {
+        "procedureId": "CHEM-003",
+        "title": "Chemical Spill Response Procedure",
+        "description": "Guidelines for chemical spill response procedure",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Use proper ventilation"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Dispose of chemicals per regulations"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Label and store chemicals safely"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Review Safety Data Sheets (SDS)"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Wear appropriate chemical-resistant PPE"
+            }
+        ],
+        "lastUpdated": "2024-04-27T08:53:38.621945"
+    },
+    {
+        "procedureId": "CONF-004",
+        "title": "Advanced Confined Space Safety",
+        "description": "Guidelines for advanced confined space safety",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Assess the confined space for hazards"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Monitor the atmosphere"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Use appropriate PPE"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Ensure communication with outside personnel"
+            }
+        ],
+        "lastUpdated": "2024-03-31T08:53:38.621957"
+    },
+    {
+        "procedureId": "HEIGHTS-005",
+        "title": "Fall Protection Procedure",
+        "description": "Guidelines for fall protection procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Ensure fall protection gear is worn"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Identify potential hazards"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Check equipment and anchor points"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Follow emergency rescue plan"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Maintain three points of contact"
+            }
+        ],
+        "lastUpdated": "2024-07-29T08:53:38.621969"
+    },
+    {
+        "procedureId": "CHEM-006",
+        "title": "Chemical Mixing Safety Procedure",
+        "description": "Guidelines for chemical mixing safety procedure",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Use proper ventilation"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Dispose of chemicals per regulations"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Label and store chemicals safely"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Review Safety Data Sheets (SDS)"
+            }
+        ],
+        "lastUpdated": "2023-08-28T08:53:38.621980"
+    },
+    {
+        "procedureId": "CONF-007",
+        "title": "Confined Space Rescue Procedure",
+        "description": "Guidelines for confined space rescue procedure",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Use appropriate PPE"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Monitor the atmosphere"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Assess the confined space for hazards"
+            }
+        ],
+        "lastUpdated": "2024-02-26T08:53:38.621995"
+    },
+    {
+        "procedureId": "HEIGHTS-008",
+        "title": "Working at Heights Procedure",
+        "description": "Guidelines for working at heights procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Follow emergency rescue plan"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Maintain three points of contact"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Identify potential hazards"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Check equipment and anchor points"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Ensure fall protection gear is worn"
+            }
+        ],
+        "lastUpdated": "2024-06-19T08:53:38.622017"
+    },
+    {
+        "procedureId": "CHEM-009",
+        "title": "Chemical Mixing Safety Procedure",
+        "description": "Guidelines for chemical mixing safety procedure",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Use proper ventilation"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Dispose of chemicals per regulations"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Label and store chemicals safely"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Wear appropriate chemical-resistant PPE"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Review Safety Data Sheets (SDS)"
+            }
+        ],
+        "lastUpdated": "2023-12-29T08:53:38.622037"
+    },
+    {
+        "procedureId": "CONF-010",
+        "title": "Confined Space Rescue Procedure",
+        "description": "Guidelines for confined space rescue procedure",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Assess the confined space for hazards"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Use appropriate PPE"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Ensure communication with outside personnel"
+            }
+        ],
+        "lastUpdated": "2023-11-03T08:53:38.622054"
+    },
+    {
+        "procedureId": "HEIGHTS-011",
+        "title": "Fall Protection Procedure",
+        "description": "Guidelines for fall protection procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Identify potential hazards"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Ensure fall protection gear is worn"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Maintain three points of contact"
+            }
+        ],
+        "lastUpdated": "2024-01-08T08:53:38.622069"
+    },
+    {
+        "procedureId": "CHEM-012",
+        "title": "Hazardous Waste Disposal Procedure",
+        "description": "Guidelines for hazardous waste disposal procedure",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Dispose of chemicals per regulations"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Use proper ventilation"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Label and store chemicals safely"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Review Safety Data Sheets (SDS)"
+            }
+        ],
+        "lastUpdated": "2024-01-30T08:53:38.622080"
+    },
+    {
+        "procedureId": "CONF-013",
+        "title": "Confined Space Entry Procedure",
+        "description": "Guidelines for confined space entry procedure",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Assess the confined space for hazards"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Use appropriate PPE"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Ensure communication with outside personnel"
+            }
+        ],
+        "lastUpdated": "2024-01-03T08:53:38.622095"
+    },
+    {
+        "procedureId": "HEIGHTS-014",
+        "title": "Ladder Safety Procedure",
+        "description": "Guidelines for ladder safety procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Ensure fall protection gear is worn"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Follow emergency rescue plan"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Maintain three points of contact"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Check equipment and anchor points"
+            }
+        ],
+        "lastUpdated": "2023-09-24T08:53:38.622112"
+    },
+    {
+        "procedureId": "CHEM-015",
+        "title": "Chemical Handling Procedure",
+        "description": "Guidelines for chemical handling procedure",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Use proper ventilation"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Dispose of chemicals per regulations"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Label and store chemicals safely"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Wear appropriate chemical-resistant PPE"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Review Safety Data Sheets (SDS)"
+            }
+        ],
+        "lastUpdated": "2023-09-03T08:53:38.622123"
+    },
+    {
+        "procedureId": "CONF-016",
+        "title": "Advanced Confined Space Safety",
+        "description": "Guidelines for advanced confined space safety",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Ensure communication with outside personnel"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Monitor the atmosphere"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Assess the confined space for hazards"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Use appropriate PPE"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Obtain necessary permits"
+            }
+        ],
+        "lastUpdated": "2024-04-19T08:53:38.622133"
+    },
+    {
+        "procedureId": "HEIGHTS-017",
+        "title": "Roof Work Safety Procedure",
+        "description": "Guidelines for roof work safety procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Follow emergency rescue plan"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Identify potential hazards"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Check equipment and anchor points"
+            }
+        ],
+        "lastUpdated": "2024-06-07T08:53:38.622142"
+    },
+    {
+        "procedureId": "CHEM-018",
+        "title": "Hazardous Waste Disposal Procedure",
+        "description": "Guidelines for hazardous waste disposal procedure",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Use proper ventilation"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Label and store chemicals safely"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Wear appropriate chemical-resistant PPE"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Review Safety Data Sheets (SDS)"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Dispose of chemicals per regulations"
+            }
+        ],
+        "lastUpdated": "2023-12-13T08:53:38.622152"
+    },
+    {
+        "procedureId": "CONF-019",
+        "title": "Confined Space Entry Procedure",
+        "description": "Guidelines for confined space entry procedure",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Monitor the atmosphere"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Ensure communication with outside personnel"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Obtain necessary permits"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Use appropriate PPE"
+            }
+        ],
+        "lastUpdated": "2024-01-07T08:53:38.622162"
+    },
+    {
+        "procedureId": "HEIGHTS-020",
+        "title": "Scaffold Safety Procedure",
+        "description": "Guidelines for scaffold safety procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Ensure fall protection gear is worn"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Check equipment and anchor points"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Identify potential hazards"
+            }
+        ],
+        "lastUpdated": "2024-01-04T08:53:38.622171"
+    },
+    {
+        "procedureId": "CHEM-021",
+        "title": "Chemical Storage Safety",
+        "description": "Guidelines for chemical storage safety",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Label and store chemicals safely"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Review Safety Data Sheets (SDS)"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Dispose of chemicals per regulations"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Wear appropriate chemical-resistant PPE"
+            }
+        ],
+        "lastUpdated": "2024-02-29T08:53:38.622182"
+    },
+    {
+        "procedureId": "CONF-022",
+        "title": "Confined Space Communication Protocol",
+        "description": "Guidelines for confined space communication protocol",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Assess the confined space for hazards"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Ensure communication with outside personnel"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Use appropriate PPE"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Monitor the atmosphere"
+            }
+        ],
+        "lastUpdated": "2024-08-19T08:53:38.622192"
+    },
+    {
+        "procedureId": "HEIGHTS-023",
+        "title": "Working at Heights Procedure",
+        "description": "Guidelines for working at heights procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Ensure fall protection gear is worn"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Follow emergency rescue plan"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Maintain three points of contact"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Identify potential hazards"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Check equipment and anchor points"
+            }
+        ],
+        "lastUpdated": "2024-02-01T08:53:38.622202"
+    },
+    {
+        "procedureId": "CHEM-024",
+        "title": "Hazardous Waste Disposal Procedure",
+        "description": "Guidelines for hazardous waste disposal procedure",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Use proper ventilation"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Dispose of chemicals per regulations"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Review Safety Data Sheets (SDS)"
+            }
+        ],
+        "lastUpdated": "2023-09-17T08:53:38.622211"
+    },
+    {
+        "procedureId": "CONF-025",
+        "title": "Confined Space Atmospheric Testing",
+        "description": "Guidelines for confined space atmospheric testing",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Use appropriate PPE"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Assess the confined space for hazards"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Monitor the atmosphere"
+            }
+        ],
+        "lastUpdated": "2023-11-10T08:53:38.622226"
+    },
+    {
+        "procedureId": "HEIGHTS-026",
+        "title": "Fall Protection Procedure",
+        "description": "Guidelines for fall protection procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Maintain three points of contact"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Ensure fall protection gear is worn"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Follow emergency rescue plan"
+            }
+        ],
+        "lastUpdated": "2023-09-15T08:53:38.622241"
+    },
+    {
+        "procedureId": "CHEM-027",
+        "title": "Chemical Spill Response Procedure",
+        "description": "Guidelines for chemical spill response procedure",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Label and store chemicals safely"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Wear appropriate chemical-resistant PPE"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Use proper ventilation"
+            }
+        ],
+        "lastUpdated": "2024-03-02T08:53:38.622250"
+    },
+    {
+        "procedureId": "CONF-028",
+        "title": "Confined Space Communication Protocol",
+        "description": "Guidelines for confined space communication protocol",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Assess the confined space for hazards"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Use appropriate PPE"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Ensure communication with outside personnel"
+            }
+        ],
+        "lastUpdated": "2024-05-09T08:53:38.622258"
+    },
+    {
+        "procedureId": "HEIGHTS-029",
+        "title": "Fall Protection Procedure",
+        "description": "Guidelines for fall protection procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Follow emergency rescue plan"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Ensure fall protection gear is worn"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Identify potential hazards"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Check equipment and anchor points"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Maintain three points of contact"
+            }
+        ],
+        "lastUpdated": "2024-04-23T08:53:38.622269"
+    },
+    {
+        "procedureId": "CHEM-030",
+        "title": "Chemical Mixing Safety Procedure",
+        "description": "Guidelines for chemical mixing safety procedure",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Use proper ventilation"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Label and store chemicals safely"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Wear appropriate chemical-resistant PPE"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Review Safety Data Sheets (SDS)"
+            }
+        ],
+        "lastUpdated": "2023-11-16T08:53:38.622278"
+    },
+    {
+        "procedureId": "CONF-031",
+        "title": "Confined Space Rescue Procedure",
+        "description": "Guidelines for confined space rescue procedure",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Obtain necessary permits"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Use appropriate PPE"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Assess the confined space for hazards"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Monitor the atmosphere"
+            }
+        ],
+        "lastUpdated": "2023-11-26T08:53:38.622288"
+    },
+    {
+        "procedureId": "HEIGHTS-032",
+        "title": "Fall Protection Procedure",
+        "description": "Guidelines for fall protection procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Follow emergency rescue plan"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Ensure fall protection gear is worn"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Identify potential hazards"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Check equipment and anchor points"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Maintain three points of contact"
+            }
+        ],
+        "lastUpdated": "2023-10-28T08:53:38.622299"
+    },
+    {
+        "procedureId": "CHEM-033",
+        "title": "Chemical Spill Response Procedure",
+        "description": "Guidelines for chemical spill response procedure",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Label and store chemicals safely"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Review Safety Data Sheets (SDS)"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Use proper ventilation"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Dispose of chemicals per regulations"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Wear appropriate chemical-resistant PPE"
+            }
+        ],
+        "lastUpdated": "2024-08-16T08:53:38.622317"
+    },
+    {
+        "procedureId": "CONF-034",
+        "title": "Confined Space Atmospheric Testing",
+        "description": "Guidelines for confined space atmospheric testing",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Ensure communication with outside personnel"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Obtain necessary permits"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Use appropriate PPE"
+            }
+        ],
+        "lastUpdated": "2023-11-25T08:53:38.622336"
+    },
+    {
+        "procedureId": "HEIGHTS-035",
+        "title": "Ladder Safety Procedure",
+        "description": "Guidelines for ladder safety procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Identify potential hazards"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Follow emergency rescue plan"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Maintain three points of contact"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Check equipment and anchor points"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Ensure fall protection gear is worn"
+            }
+        ],
+        "lastUpdated": "2024-02-05T08:53:38.622347"
+    },
+    {
+        "procedureId": "CHEM-036",
+        "title": "Chemical Handling Procedure",
+        "description": "Guidelines for chemical handling procedure",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Dispose of chemicals per regulations"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Review Safety Data Sheets (SDS)"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Wear appropriate chemical-resistant PPE"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Label and store chemicals safely"
+            }
+        ],
+        "lastUpdated": "2024-08-19T08:53:38.622356"
+    },
+    {
+        "procedureId": "CONF-037",
+        "title": "Advanced Confined Space Safety",
+        "description": "Guidelines for advanced confined space safety",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Use appropriate PPE"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Obtain necessary permits"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Monitor the atmosphere"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Ensure communication with outside personnel"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Assess the confined space for hazards"
+            }
+        ],
+        "lastUpdated": "2023-12-24T08:53:38.622366"
+    },
+    {
+        "procedureId": "HEIGHTS-038",
+        "title": "Roof Work Safety Procedure",
+        "description": "Guidelines for roof work safety procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Ensure fall protection gear is worn"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Maintain three points of contact"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Check equipment and anchor points"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Identify potential hazards"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Follow emergency rescue plan"
+            }
+        ],
+        "lastUpdated": "2024-04-23T08:53:38.622376"
+    },
+    {
+        "procedureId": "CHEM-039",
+        "title": "Chemical Handling Procedure",
+        "description": "Guidelines for chemical handling procedure",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Dispose of chemicals per regulations"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Review Safety Data Sheets (SDS)"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Wear appropriate chemical-resistant PPE"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Label and store chemicals safely"
+            }
+        ],
+        "lastUpdated": "2024-03-25T08:53:38.622386"
+    },
+    {
+        "procedureId": "CONF-040",
+        "title": "Confined Space Rescue Procedure",
+        "description": "Guidelines for confined space rescue procedure",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Ensure communication with outside personnel"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Assess the confined space for hazards"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Monitor the atmosphere"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Use appropriate PPE"
+            }
+        ],
+        "lastUpdated": "2024-07-26T08:53:38.622395"
+    },
+    {
+        "procedureId": "HEIGHTS-041",
+        "title": "Roof Work Safety Procedure",
+        "description": "Guidelines for roof work safety procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Maintain three points of contact"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Follow emergency rescue plan"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Check equipment and anchor points"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Identify potential hazards"
+            }
+        ],
+        "lastUpdated": "2023-08-29T08:53:38.622406"
+    },
+    {
+        "procedureId": "CHEM-042",
+        "title": "Chemical Spill Response Procedure",
+        "description": "Guidelines for chemical spill response procedure",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Review Safety Data Sheets (SDS)"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Wear appropriate chemical-resistant PPE"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Label and store chemicals safely"
+            }
+        ],
+        "lastUpdated": "2023-09-06T08:53:38.622415"
+    },
+    {
+        "procedureId": "CONF-043",
+        "title": "Advanced Confined Space Safety",
+        "description": "Guidelines for advanced confined space safety",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Use appropriate PPE"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Ensure communication with outside personnel"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Assess the confined space for hazards"
+            }
+        ],
+        "lastUpdated": "2024-07-16T08:53:38.622424"
+    },
+    {
+        "procedureId": "HEIGHTS-044",
+        "title": "Ladder Safety Procedure",
+        "description": "Guidelines for ladder safety procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Follow emergency rescue plan"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Maintain three points of contact"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Check equipment and anchor points"
+            }
+        ],
+        "lastUpdated": "2024-08-21T08:53:38.622433"
+    },
+    {
+        "procedureId": "CHEM-045",
+        "title": "Chemical Storage Safety",
+        "description": "Guidelines for chemical storage safety",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Dispose of chemicals per regulations"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Review Safety Data Sheets (SDS)"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Label and store chemicals safely"
+            }
+        ],
+        "lastUpdated": "2024-04-11T08:53:38.622442"
+    },
+    {
+        "procedureId": "CONF-046",
+        "title": "Confined Space Communication Protocol",
+        "description": "Guidelines for confined space communication protocol",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Monitor the atmosphere"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Use appropriate PPE"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Assess the confined space for hazards"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Obtain necessary permits"
+            }
+        ],
+        "lastUpdated": "2023-11-23T08:53:38.622451"
+    },
+    {
+        "procedureId": "HEIGHTS-047",
+        "title": "Working at Heights Procedure",
+        "description": "Guidelines for working at heights procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Ensure fall protection gear is worn"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Check equipment and anchor points"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Maintain three points of contact"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Identify potential hazards"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Follow emergency rescue plan"
+            }
+        ],
+        "lastUpdated": "2024-07-14T08:53:38.622473"
+    },
+    {
+        "procedureId": "CHEM-048",
+        "title": "Chemical Spill Response Procedure",
+        "description": "Guidelines for chemical spill response procedure",
+        "category": "chemical handling",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Wear appropriate chemical-resistant PPE"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Review Safety Data Sheets (SDS)"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Dispose of chemicals per regulations"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Use proper ventilation"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Label and store chemicals safely"
+            }
+        ],
+        "lastUpdated": "2024-02-18T08:53:38.622486"
+    },
+    {
+        "procedureId": "CONF-049",
+        "title": "Confined Space Rescue Procedure",
+        "description": "Guidelines for confined space rescue procedure",
+        "category": "confined space",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Monitor the atmosphere"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Obtain necessary permits"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Assess the confined space for hazards"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Use appropriate PPE"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Ensure communication with outside personnel"
+            }
+        ],
+        "lastUpdated": "2023-11-15T08:53:38.622504"
+    },
+    {
+        "procedureId": "HEIGHTS-050",
+        "title": "Scaffold Safety Procedure",
+        "description": "Guidelines for scaffold safety procedure",
+        "category": "working at heights",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "description": "Check equipment and anchor points"
+            },
+            {
+                "stepNumber": 2,
+                "description": "Identify potential hazards"
+            },
+            {
+                "stepNumber": 3,
+                "description": "Ensure fall protection gear is worn"
+            },
+            {
+                "stepNumber": 4,
+                "description": "Follow emergency rescue plan"
+            },
+            {
+                "stepNumber": 5,
+                "description": "Maintain three points of contact"
+            }
+        ],
+        "lastUpdated": "2023-10-07T08:53:38.622518"
+    }
+]

@@ -1,0 +1,209 @@
+2026-10-10 14:38:16,659 | INFO | sopilot_assistant | Received a question
+2026-10-10 14:42:20,699 | INFO | test | Logging test successful
+2026-10-10 14:44:58,852 | INFO | sopilot_assistant | Received a question
+2026-10-10 14:48:58,814 | INFO | sopilot_assistant | Received a question
+2026-10-10 14:49:15,282 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-10 16:14:20,176 | INFO | sopilot_assistant | Received a question
+2026-10-10 16:14:45,241 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-10 16:15:38,723 | INFO | sopilot_assistant | Received a question
+2026-10-10 16:16:49,790 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 10:53:54,368 | INFO | sopilot_assistant | Received a question
+2026-10-11 10:54:30,203 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 11:12:17,680 | INFO | sopilot_assistant | Received a question
+2026-10-11 11:12:32,115 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 11:14:21,052 | INFO | sentence_transformers.base.model | No device provided, using cpu
+2026-10-11 11:14:21,522 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-10-11 11:14:21,581 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/modules.json?%2Fsentence-transformers%2Fall-MiniLM-L6-v2%2Fresolve%2Fmain%2Fmodules.json=&etag=%22952a9b81c0bfd99800fabf352f69c7ccd46c5e43%22 "HTTP/1.1 200 OK"
+2026-10-11 11:14:21,882 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-10-11 11:14:21,967 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config_sentence_transformers.json?%2Fsentence-transformers%2Fall-MiniLM-L6-v2%2Fresolve%2Fmain%2Fconfig_sentence_transformers.json=&etag=%22fd1b291129c607e5d49799f87cb219b27f98acdf%22 "HTTP/1.1 200 OK"
+2026-10-11 11:14:21,970 | INFO | sentence_transformers.base.model | Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+2026-10-11 11:14:22,240 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-10-11 11:14:22,321 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config_sentence_transformers.json?%2Fsentence-transformers%2Fall-MiniLM-L6-v2%2Fresolve%2Fmain%2Fconfig_sentence_transformers.json=&etag=%22fd1b291129c607e5d49799f87cb219b27f98acdf%22 "HTTP/1.1 200 OK"
+2026-10-11 11:14:22,658 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-10-11 11:14:23,205 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/README.md?%2Fsentence-transformers%2Fall-MiniLM-L6-v2%2Fresolve%2Fmain%2FREADME.md=&etag=%2244af2e3b0fa3a0b6239e48422972bf755f28fde0%22 "HTTP/1.1 200 OK"
+2026-10-11 11:14:23,834 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-10-11 11:14:23,910 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/modules.json?%2Fsentence-transformers%2Fall-MiniLM-L6-v2%2Fresolve%2Fmain%2Fmodules.json=&etag=%22952a9b81c0bfd99800fabf352f69c7ccd46c5e43%22 "HTTP/1.1 200 OK"
+2026-10-11 11:14:24,192 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-10-11 11:14:24,239 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/sentence_bert_config.json?%2Fsentence-transformers%2Fall-MiniLM-L6-v2%2Fresolve%2Fmain%2Fsentence_bert_config.json=&etag=%2259d594003bf59880a884c574bf88ef7555bb0202%22 "HTTP/1.1 200 OK"
+2026-10-11 11:14:24,518 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-10-11 11:14:24,901 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-10-11 11:14:25,581 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-10-11 11:14:26,696 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-10-11 11:14:26,998 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-10-11 11:14:27,327 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-10-11 11:14:27,997 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-10-11 11:14:28,141 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/1_Pooling%2Fconfig.json?%2Fsentence-transformers%2Fall-MiniLM-L6-v2%2Fresolve%2Fmain%2F1_Pooling%2Fconfig.json=&etag=%22d1514c3162bbe87b343f565fadc62e6c06f04f03%22 "HTTP/1.1 200 OK"
+2026-10-11 11:14:28,583 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/2_Normalize/config.json "HTTP/1.1 404 Not Found"
+2026-10-11 11:14:29,459 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-10-11 11:14:32,326 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen2.5-0.5B-Instruct "HTTP/1.1 200 OK"
+2026-10-11 11:14:41,300 | INFO | sopilot_assistant | Received a question
+2026-10-11 11:15:30,713 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 11:17:32,867 | INFO | sopilot_assistant | Received a question
+2026-10-11 11:17:57,713 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 11:18:48,132 | INFO | sopilot_assistant | Received a question
+2026-10-11 11:18:59,080 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 11:19:29,937 | INFO | sopilot_assistant | Received a question
+2026-10-11 11:22:20,873 | INFO | sentence_transformers.base.model | No device provided, using cpu
+2026-10-11 11:22:21,397 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-10-11 11:22:21,448 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/modules.json?%2Fsentence-transformers%2Fall-MiniLM-L6-v2%2Fresolve%2Fmain%2Fmodules.json=&etag=%22952a9b81c0bfd99800fabf352f69c7ccd46c5e43%22 "HTTP/1.1 200 OK"
+2026-10-11 11:22:21,735 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-10-11 11:22:21,768 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config_sentence_transformers.json?%2Fsentence-transformers%2Fall-MiniLM-L6-v2%2Fresolve%2Fmain%2Fconfig_sentence_transformers.json=&etag=%22fd1b291129c607e5d49799f87cb219b27f98acdf%22 "HTTP/1.1 200 OK"
+2026-10-11 11:22:21,777 | INFO | sentence_transformers.base.model | Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+2026-10-11 11:22:22,028 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-10-11 11:22:22,091 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config_sentence_transformers.json?%2Fsentence-transformers%2Fall-MiniLM-L6-v2%2Fresolve%2Fmain%2Fconfig_sentence_transformers.json=&etag=%22fd1b291129c607e5d49799f87cb219b27f98acdf%22 "HTTP/1.1 200 OK"
+2026-10-11 11:22:22,366 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-10-11 11:22:22,411 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/README.md?%2Fsentence-transformers%2Fall-MiniLM-L6-v2%2Fresolve%2Fmain%2FREADME.md=&etag=%2244af2e3b0fa3a0b6239e48422972bf755f28fde0%22 "HTTP/1.1 200 OK"
+2026-10-11 11:22:22,686 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-10-11 11:22:22,725 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/modules.json?%2Fsentence-transformers%2Fall-MiniLM-L6-v2%2Fresolve%2Fmain%2Fmodules.json=&etag=%22952a9b81c0bfd99800fabf352f69c7ccd46c5e43%22 "HTTP/1.1 200 OK"
+2026-10-11 11:22:23,008 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-10-11 11:22:23,054 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/sentence_bert_config.json?%2Fsentence-transformers%2Fall-MiniLM-L6-v2%2Fresolve%2Fmain%2Fsentence_bert_config.json=&etag=%2259d594003bf59880a884c574bf88ef7555bb0202%22 "HTTP/1.1 200 OK"
+2026-10-11 11:22:23,318 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-10-11 11:22:23,618 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-10-11 11:22:23,917 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-10-11 11:22:24,665 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-10-11 11:22:24,966 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-10-11 11:22:25,246 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-10-11 11:22:25,658 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-10-11 11:22:25,715 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/1_Pooling%2Fconfig.json?%2Fsentence-transformers%2Fall-MiniLM-L6-v2%2Fresolve%2Fmain%2F1_Pooling%2Fconfig.json=&etag=%22d1514c3162bbe87b343f565fadc62e6c06f04f03%22 "HTTP/1.1 200 OK"
+2026-10-11 11:22:25,977 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/2_Normalize/config.json "HTTP/1.1 404 Not Found"
+2026-10-11 11:22:26,256 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-10-11 11:22:29,509 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen2.5-0.5B-Instruct "HTTP/1.1 200 OK"
+2026-10-11 11:28:37,100 | INFO | sopilot_assistant | Received a question
+2026-10-11 11:28:47,952 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 11:30:25,221 | INFO | sopilot_assistant | Received a question
+2026-10-11 11:30:39,330 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 11:43:47,093 | INFO | sopilot_assistant | Received a question
+2026-10-11 11:44:00,488 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 11:53:22,275 | INFO | sopilot_assistant | Received a question
+2026-10-11 11:53:31,311 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:02:40,733 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:02:49,998 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:04:05,260 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:04:19,717 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:04:52,737 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:05:08,419 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:05:49,566 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:05:57,488 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:31:47,554 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:31:56,502 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:31:56,538 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:32:04,356 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=0
+2026-10-11 12:32:04,357 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:32:13,761 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:32:13,768 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:32:21,064 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:32:21,065 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:32:29,789 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:32:29,790 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:32:38,921 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:32:38,921 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:32:43,705 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:32:43,709 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:32:49,737 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=1
+2026-10-11 12:32:49,737 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:32:58,773 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:32:58,774 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:33:11,304 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:37:05,620 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:37:23,070 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:37:25,589 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:37:45,211 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=0
+2026-10-11 12:37:45,606 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:37:55,305 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:37:55,308 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:38:03,746 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:38:03,765 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:38:17,987 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:38:18,593 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:38:36,829 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:38:36,866 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:38:52,173 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 12:38:52,174 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:38:58,620 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=1
+2026-10-11 12:38:58,622 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:38:58,847 | WARNING | sopilot_assistant | No evidence found for the requested evacuation route
+2026-10-11 12:38:58,854 | INFO | sopilot_assistant | Received a question
+2026-10-11 12:38:59,140 | WARNING | sopilot_assistant | No evidence found for the safety officer's contact
+2026-10-11 13:07:00,185 | INFO | sopilot_assistant | Received a question
+2026-10-11 13:07:00,650 | WARNING | sopilot_assistant | No evidence found for the requested evacuation route
+2026-10-11 13:07:46,188 | INFO | sopilot_assistant | Received a question
+2026-10-11 13:07:46,601 | WARNING | sopilot_assistant | No evidence found for the safety officer's contact
+2026-10-11 13:40:33,343 | INFO | sopilot_assistant | Received a question
+2026-10-11 13:40:53,911 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 13:42:00,957 | INFO | sopilot_assistant | Received a question
+2026-10-11 13:42:01,568 | WARNING | sopilot_assistant | No evidence found for the requested evacuation route
+2026-10-11 13:49:48,872 | INFO | sopilot_assistant | Received a question
+2026-10-11 13:50:16,330 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 13:51:24,478 | INFO | sopilot_assistant | Received a question
+2026-10-11 13:51:25,185 | WARNING | sopilot_assistant | No evidence found for the requested evacuation route
+2026-10-11 13:51:59,309 | INFO | sopilot_assistant | Received a question
+2026-10-11 13:51:59,549 | WARNING | sopilot_assistant | No relevant context found for the question
+2026-10-11 13:52:23,083 | INFO | sopilot_assistant | Received a question
+2026-10-11 13:52:23,254 | WARNING | sopilot_assistant | No relevant context found for the question
+2026-10-11 13:52:26,357 | INFO | sopilot_assistant | Received a question
+2026-10-11 13:52:26,505 | WARNING | sopilot_assistant | No relevant context found for the question
+2026-10-11 13:53:17,351 | INFO | sopilot_assistant | Received a question
+2026-10-11 13:53:17,642 | WARNING | sopilot_assistant | No evidence found for the requested evacuation route
+2026-10-11 13:59:13,416 | ERROR | asyncio | Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\Dell\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Dell\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-11 13:59:24,964 | INFO | sopilot_assistant | Received a question
+2026-10-11 13:59:25,426 | WARNING | sopilot_assistant | No evidence found for the safety officer's contact
+2026-10-11 14:58:40,639 | INFO | sopilot_assistant | Received a question
+2026-10-11 14:58:44,069 | INFO | sopilot_assistant | PPE question cannot be answered with specific items from the available OSHA reference
+2026-10-11 14:59:23,407 | INFO | sopilot_assistant | Received a question
+2026-10-11 14:59:23,640 | INFO | sopilot_assistant | PPE question cannot be answered with specific items from the available OSHA reference
+2026-10-11 14:59:29,591 | INFO | sopilot_assistant | Received a question
+2026-10-11 14:59:29,664 | INFO | sopilot_assistant | PPE question cannot be answered with specific items from the available OSHA reference
+2026-10-11 14:59:48,489 | INFO | sopilot_assistant | Received a question
+2026-10-11 15:00:06,924 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 15:00:56,415 | INFO | sopilot_assistant | Received a question
+2026-10-11 15:01:24,613 | INFO | sopilot_assistant | Received a question
+2026-10-11 15:01:24,958 | INFO | sopilot_assistant | PPE question cannot be answered with specific items from the available OSHA reference
+2026-10-11 15:01:40,145 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=0
+2026-10-11 15:02:39,401 | INFO | sopilot_assistant | Received a question
+2026-10-11 15:02:47,287 | WARNING | sopilot_assistant | No evidence found for the requested evacuation route
+2026-10-11 15:07:12,743 | INFO | sopilot_assistant | Received a question
+2026-10-11 15:07:14,057 | INFO | sopilot_assistant | Communication question supported by OSHA reference
+2026-10-11 15:15:29,832 | INFO | sopilot_assistant | Received a question
+2026-10-11 15:15:30,305 | INFO | sopilot_assistant | Communication question supported by OSHA reference
+2026-10-11 15:16:13,245 | INFO | sopilot_assistant | Received a question
+2026-10-11 15:16:13,431 | INFO | sopilot_assistant | Communication question supported by OSHA reference
+2026-10-11 15:16:45,657 | INFO | sopilot_assistant | Received a question
+2026-10-11 15:16:45,818 | INFO | sopilot_assistant | PPE question cannot be answered with specific items from the available OSHA reference
+2026-10-11 15:17:16,064 | INFO | sopilot_assistant | Received a question
+2026-10-11 15:17:16,123 | WARNING | sopilot_assistant | No evidence found for the requested evacuation route
+2026-10-11 15:19:27,497 | INFO | sopilot_assistant | Received a question
+2026-10-11 15:19:27,969 | INFO | sopilot_assistant | Communication question supported by OSHA reference
+2026-10-11 15:19:27,969 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 15:21:54,043 | INFO | sopilot_assistant | Received a question
+2026-10-11 15:21:56,027 | INFO | sopilot_assistant | Communication question supported by OSHA reference
+2026-10-11 15:21:56,029 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 16:03:55,116 | INFO | sopilot_assistant | Received a question
+2026-10-11 16:04:24,800 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-11 16:05:11,665 | INFO | sopilot_assistant | Received a question
+2026-10-11 16:05:12,020 | WARNING | sopilot_assistant | No evidence found for the requested evacuation route
+2026-10-11 16:05:39,103 | INFO | sopilot_assistant | Received a question
+2026-10-11 16:05:39,407 | INFO | sopilot_assistant | Communication question supported by OSHA reference
+2026-10-11 16:05:39,409 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-12 13:45:26,698 | INFO | sopilot_assistant | Received a question
+2026-10-12 13:45:53,474 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-14 19:14:31,364 | INFO | sopilot_assistant | Received a question
+2026-10-14 19:15:01,918 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-14 19:18:22,855 | INFO | sopilot_assistant | Received a question
+2026-10-14 19:18:59,013 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-14 19:26:11,060 | INFO | sopilot_assistant | Received a question
+2026-10-14 19:26:53,492 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-15 13:21:11,677 | INFO | sopilot_assistant | Received a question
+2026-10-15 13:21:36,430 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-15 18:26:23,737 | INFO | sopilot_assistant | Received a question
+2026-10-15 18:26:38,429 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-15 18:34:07,937 | INFO | sopilot_assistant | Received a question
+2026-10-15 18:34:32,179 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2
+2026-10-15 18:39:10,690 | INFO | sopilot_assistant | Received a question
+2026-10-15 18:39:41,605 | INFO | sopilot_assistant | Answer generated; sample_sources=2, reference_sources=2

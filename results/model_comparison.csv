@@ -1,0 +1,54 @@
+question,base_model_answer,finetuned_model_answer,rag_answer,retrieved_context_found
+What hazards should be checked before entering a confined space?,"Before entering a confined space, check for any potential hazards such as oxygen levels below 19.5%, flammable gases or vapors present, toxic substances, electrical risks (e.g., voltage), and mechanical dangers like falling objects or equipment malfunctions. Ensure there is adequate ventilation to remove any contaminants that could pose health risks. Always have a supervisor present during entry and monitor for signs of danger throughout your work area.","Check for potential hazards such as oxygen levels, flammable gases, and toxic substances before entering a confined space.","• Identify potential physical hazards.
+• Ensure proper ventilation.
+• Monitor for chemical exposure.
+• Follow emergency response plan",True
+Why is atmospheric testing important in a confined space?,Atmospheric testing is crucial for ensuring safe operations in confined spaces because it helps identify potential hazards such as oxygen deficiency or toxic gases that could pose risks to personnel. This process ensures compliance with safety regulations and minimizes the risk of accidents by identifying and addressing any issues before they become significant problems.,Atmospheric testing is crucial for confined spaces because it assesses oxygen levels and potential hazards such as toxic gases or flammable materials.,"Atmospheric testing is crucial because it helps identify potential hazards like oxygen deficiency, flammable gases, toxic substances, or electrical hazards before workers enter confined spaces.",True
+What should a worker do if communication with the attendant is lost?,"If communication with the attendant is lost, acknowledge it immediately and inform your supervisor or shift leader about the situation. Follow their guidance on how to proceed safely.","If communication with the attendant is lost, ensure your emergency plan is followed; wear appropriate PPE; stay calm and follow rescue procedures","Maintain contact with a trained attendant whether visually, via phone, or by two-way radio.",True
+What personal protective equipment is mentioned in the available documents?,"I'm sorry, but I don't have access to specific documents or information about what personal protective equipment (PPE) might be mentioned without further context. Typically, PPE would include items like gloves, goggles, masks, respirators, hard hats, and other specialized gear depending on job requirements and potential hazards. Without more details from your document, it's impossible for me to provide an accurate answer.",Face mask,"• Maintain contact at all times with a trained attendant either visually, via phone, or by two-way radio.
+• Review, understand and follow employer’s procedures before entering permit-required confined spaces and know how and when to exit.
+• Before entry, identify any physical hazards.
+• Before and during entry, test and monitor for oxygen content, flammability, toxicity or explosive hazards as necessary.
+• Use employer’s fall protection, rescue, air-monitoring, ventilation, lighting and communication equipment according to entry procedures.
+• Maintain contact at all times with a trained attendant either visually, via phone, or by",True
+What do the available documents say about entry permits?,"I'm sorry, but I can't provide an answer to that question as there is no specific document or information regarding ""entry permits"" in my current knowledge base. To accurately address your inquiry, please refer to the official policies of the relevant organization or department where these documents apply.","Entry permits typically specify requirements for attire, footwear, medical history, and specific work areas or projects.","• Identify any physical hazards.
+• Test and monitor for oxygen content, flammability, toxicity or explosive hazards as necessary.
+• Ensure proper fall protection gear is worn.
+• Follow employer’s fall protection procedure.
+• Monitor temperature and pressure changes.
+• Communicate with outside personnel.
+• Maintain communication with attendant",True
+How should workers communicate with outside personnel?,"Workers should communicate clearly and effectively with external personnel to ensure smooth operations and prevent misunderstandings or conflicts. This includes using clear language, maintaining eye contact, being respectful of their time, and avoiding any potential hazards that could lead to miscommunication. It is also important to establish protocols for communication during work hours and emergencies.",Workers should communicate with outside personnel using appropriate communication methods such as verbal instructions or designated meeting points. Ensure they understand emergency response plans and follow necessary protocols for confined spaces and chemical handling.,Maintain contact with a trained attendant both visually and verbally until instructed otherwise.,True
+What should be monitored in a confined space?,"In a confined space, key monitoring indicators include:
+
+1. Oxygen levels (typically 19% to 23%)
+
+2. Temperature
+
+3. Humidity
+
+4. Flammable gases or vapors
+
+5. Toxicity of air components
+
+6. Presence of hazardous materials
+
+7. Ventilation status
+
+8. Visual conditions (e.g., visibility)
+
+9. Sound level
+
+10. Noise exposure
+
+Always check these parameters before entering and ensure they remain within safe limits throughout your work period.","Monitor temperature, oxygen level, and potential hazards such as chemical exposure or electrical risks.",• Monitor for Oxygen Content • Monitor for Flammable Materials • Monitor for Toxicity or Explosive Hazards,True
+Which available procedure covers confined space entry?,"I'm sorry, but I don't have specific information about which procedures cover confined space entry without being confirmed by an authorized source or documented in your company's policies. Confined spaces typically refer to areas where there is a risk of danger due to their limited access or restricted environment. Without such documentation, it would be challenging for me to provide accurate answers on this topic. For detailed guidance, consulting with your supervisor or relevant department should suffice.",Confined Space Entry Procedure,The confined space entry procedure covered in the referenced document requires training and obtaining a permit.,True
+What is the company's approved emergency evacuation route?,"I'm sorry, but I don't have access to specific information about an individual company or its policies regarding emergency evacuations. Typically, this would require consulting with your employer's human resources department for accurate guidance on their procedures. For general knowledge, it's best to refer directly to the company's official document or contact them through their designated channels.",The company's approved emergency evacuation route should follow designated pathways or designated escape routes as specified in their Emergency Response Plan (ERP).,I couldn't verify the company's approved evacuation route from the available documents. Consult your organization's approved emergency plan or safety officer.,True
+What is the exact phone number of my workplace safety officer?,"I'm sorry, but I don't have access to specific information about your workplace safety officer or their contact details without being provided with that detail first. To get accurate and up-to-date information on your workplace safety officer's phone number, it would be best to check directly with them through their designated communication channels such as email, company intranet, or by calling their office.",The exact phone number for your workplace safety officer can vary depending on the specific workplace or company guidelines. Always check with Human Resources (HR) or Safety Officer directly to ensure accuracy.,I couldn't verify the safety officer's phone number from the available documents. Consult your organization's official contact directory.,True
+What should a worker do if the retrieved information is insufficient?,"If you retrieve information that is insufficient for your job duties or to perform tasks safely, it is important to acknowledge this limitation promptly. This could involve taking notes, seeking clarification from someone more knowledgeable about the topic, or using alternative methods of obtaining necessary information. Always ensure that any new data or knowledge acquired through such actions remains within the scope of your current responsibilities and procedures.",Do not retrieve any additional information unless explicitly instructed to do so.,"If the retrieved information is insufficient:
+
+• Ensure proper training and permits are obtained.
+• Monitor yourself and your surroundings closely.
+• Identify potential hazards and communicate safely with others.
+• Follow emergency response plans and guidelines",True
+How do I repair a broken conveyor belt motor?,"To repair a broken conveyor belt motor, first ensure that no one is near or under it to avoid injury. Next, disconnect the power source if possible. Use appropriate tools such as pliers or a screwdriver with a Phillips head for disassembly. Remove any protective covers or seals around the motor. Clean the exterior of the motor thoroughly using a degreaser and dry cloth. Replace the motor assembly by carefully removing old parts and installing new ones in their correct positions. Reassemble the motor according to its original orientation and tighten all bolts securely. Finally, test the motor function before restarting operations. Ensure",Check for electrical hazards first Ensure safety gear is worn Wear appropriate PPE Follow emergency rescue plan Review maintenance manual Consult professional if necessary,No relevant conveyor motor repair procedure was found. Consult the approved maintenance SOP and a qualified technician.,False

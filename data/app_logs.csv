@@ -1,0 +1,56 @@
+timestamp,question,sample_procedures_returned,osha_reference_returned,answer_status
+2026-10-09T21:50:16+05:30,What hazards should be checked before entering a confined space?,yes,yes,returned
+2026-10-09T22:59:27+05:30,What hazards should be checked before entering a confined space?,yes,yes,returned
+2026-10-10T11:06:07+05:30,How can I identify a hazardous atmosphere in a confined space?,yes,yes,returned
+2026-10-10T16:14:45+05:30,What hazards should be checked before entering a confined space?,no,no,returned
+2026-10-10T16:16:49+05:30,How should communication be maintained in a confined space?,no,no,returned
+2026-10-11T10:54:30+05:30,What safety precautions should I follow before entering a confined space?,no,no,returned
+2026-10-11T11:12:32+05:30,What hazards should be checked before entering a confined space?,no,no,returned
+2026-10-11T11:15:30+05:30,What hazards should be checked before entering a confined space?,no,no,returned
+2026-10-11T11:17:57+05:30,What should be checked before entering a confined space?,no,no,returned
+2026-10-11T11:18:59+05:30,What PPE is required for confined space entry?,no,no,returned
+2026-10-11T11:19:30+05:30,What should I do if the retrieved documents do not contain the answer?,no,no,returned
+2026-10-11T11:28:47+05:30,What should be checked before entering a confined space?,no,no,returned
+2026-10-11T11:30:39+05:30,What PPE is required for confined space entry?,no,no,returned
+2026-10-11T11:44:00+05:30,What should be checked before entering a confined space?,no,no,returned
+2026-10-11T11:53:31+05:30,What should be checked before entering a confined space,no,no,returned
+2026-10-11T12:02:50+05:30,What should be checked before entering a confined space?,yes,yes,returned
+2026-10-11T12:04:19+05:30,What PPE is required for confined space entry?,yes,yes,returned
+2026-10-11T12:05:08+05:30,How should communication with outside personnel be handled?,yes,yes,returned
+2026-10-11T12:05:50+05:30,What should I do if the retrieved documents do not contain the answer?,no,no,returned
+2026-10-11T12:05:57+05:30,What should I do if the retrieved documents do not contain the answer?,no,no,returned
+2026-10-11T13:07:00+05:30,What is the company's approved emergency evacuation route?,no,no,returned
+2026-10-11T13:07:46+05:30,What is the exact phone number of my workplace safety officer?,no,no,returned
+2026-10-11T13:40:53+05:30,What hazards should be checked before entering a confined space?,yes,yes,returned
+2026-10-11T13:42:01+05:30,What is the company's approved emergency evacuation route?,no,no,returned
+2026-10-11T13:50:16+05:30,What hazards should be checked before entering a confined space?,yes,yes,returned
+2026-10-11T13:51:25+05:30,What is the company's approved emergency evacuation route?,no,no,returned
+2026-10-11T13:51:59+05:30,How do I repair a broken conveyor belt motor?,no,no,returned
+2026-10-11T13:52:23+05:30,How do I repair a broken conveyor belt motor?,no,no,returned
+2026-10-11T13:52:26+05:30,How do I repair a broken conveyor belt motor?,no,no,returned
+2026-10-11T13:53:17+05:30,What is the company's approved emergency evacuation route?,no,no,returned
+2026-10-11T13:59:25+05:30,What is the exact phone number of my workplace safety officer?,no,no,returned
+2026-10-11T14:58:44+05:30,What personal protective equipment is required in a confined space?,no,no,returned
+2026-10-11T14:59:23+05:30,What personal protective equipment is required in a confined space?,no,no,returned
+2026-10-11T14:59:29+05:30,What personal protective equipment is required in a confined space?,no,no,returned
+2026-10-11T15:00:07+05:30,How should workers communicate with outside personnel?,yes,yes,returned
+2026-10-11T15:01:24+05:30,What personal protective equipment is required in a confined space?,no,no,returned
+2026-10-11T15:01:40+05:30,The PPE answer explains when specific items are not listed in the available reference,yes,no,returned
+2026-10-11T15:02:47+05:30,What is our company's approved evacuation route?,no,no,returned
+2026-10-11T15:07:14+05:30,How should workers communicate with outside personnel in a confined space?,no,no,returned
+2026-10-11T15:15:30+05:30,How should workers communicate with outside personnel in a confined space?,no,no,returned
+2026-10-11T15:16:13+05:30,How should workers communicate with outside personnel in a confined space?,no,no,returned
+2026-10-11T15:16:45+05:30,What personal protective equipment is required in a confined space?,no,no,returned
+2026-10-11T15:17:16+05:30,What is our company's approved evacuation route?,no,no,returned
+2026-10-11T15:21:56+05:30,How should workers communicate with outside personnel in a confined space?,yes,yes,returned
+2026-10-11T16:04:24+05:30,What hazards should be checked before entering a confined space?,yes,yes,returned
+2026-10-11T16:05:12+05:30,What is the company's approved emergency evacuation route?,no,no,returned
+2026-10-11T16:05:39+05:30,How should workers communicate with outside personnel?,yes,yes,returned
+2026-10-12T13:45:54+05:30,What safety steps should be followed before operating a machine?,yes,yes,returned
+2026-10-14T19:15:01+05:30,What hazards should be checked before entering a confined space?,yes,yes,returned
+2026-10-14T19:18:59+05:30,What safety procedures should be followed before operating a machine?,yes,yes,returned
+2026-10-14T19:26:53+05:30,What safety procedures should be followed before operating a machine?,yes,yes,returned
+2026-10-15T13:21:36+05:30,What hazards should be checked before entering a confined space?,yes,yes,returned
+2026-10-15T18:26:38+05:30,How should communication be maintained in a confined space?,yes,yes,returned
+2026-10-15T18:34:32+05:30,What hazards should be checked before entering a confined space?,yes,yes,returned
+2026-10-15T18:39:41+05:30,What hazards should be checked before entering a confined space?,yes,yes,returned

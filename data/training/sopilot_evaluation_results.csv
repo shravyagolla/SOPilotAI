@@ -1,0 +1,240 @@
+﻿question,expected_topic,status,answer,manual_relevance_score_1_to_5,manual_safety_score_1_to_5
+What should be checked before entering a confined space?,hazards and entry checks,SUCCESS,"AI answer:
+Assess the confined space for hazards
+
+Procedure: Confined Space Entry Procedure
+Procedure ID: CONF-013
+Category: confined space
+Sample steps:
+1. Assess the confined space for hazards
+2. Use appropriate PPE
+3. Ensure communication with outside personnel
+
+Procedure: Confined Space Entry Procedure
+Procedure ID: CONF-019
+Category: confined space
+Sample steps:
+1. Monitor the atmosphere
+2. Ensure communication with outside personnel
+3. Obtain necessary permits
+4. Use appropriate PPE
+
+Source: osha_confined_space_quick_card.pdf
+Page: 1
+Reference excerpt:
+• May contain a material which can engulf an entrant. • May contain walls that converge inward or floors that slope downward and taper into a smaller area which could trap or asphyxiate an entrant. • May contain other serious physical hazards such as unguarded machines or exposed live wires. • Must be identified by the employer who must inform exposed employees of the existence and location of such spaces and their hazards. What to Do • Do not enter permit-required confined spaces without being trained and without having a permit to enter.
+
+Source: osha_confined_space_quick_card.pdf
+Page: 1
+Reference excerpt:
+Permit-Required Confined Spaces QUICKCARD TM A confined space has limited openings for entry or exit, is large enough for entering and working, and is not designed for continuous worker occupancy. Confined spaces include underground vaults, tanks, storage bins, manholes, pits, silos, underground utility vaults and pipelines. See 29 CFR 1910.146. Permit-required confined spaces are confined spaces that: • May contain a hazardous or potentially hazardous atmosphere. • May contain a material which can engulf an entrant.
+
+Retrieved sources: 2 sample procedure(s), 2 public-reference passage(s).",,
+What PPE steps are mentioned in the procedures?,PPE,SUCCESS,"AI answer:
+The following PPE steps are mentioned in the confined space rescue procedure:
+
+1. Use appropriate PPE
+
+Procedure: Confined Space Rescue Procedure
+Procedure ID: CONF-007
+Category: confined space
+Sample steps:
+1. Use appropriate PPE
+2. Monitor the atmosphere
+3. Assess the confined space for hazards
+
+Procedure: Chemical Handling Procedure
+Procedure ID: CHEM-039
+Category: chemical handling
+Sample steps:
+1. Dispose of chemicals per regulations
+2. Review Safety Data Sheets (SDS)
+3. Wear appropriate chemical-resistant PPE
+4. Label and store chemicals safely
+
+Retrieved sources: 2 sample procedure(s), 0 public-reference passage(s).",,
+How should workers communicate with outside personnel?,communication,SUCCESS,"AI answer:
+Assess the confined space for hazards; ensure communication with outside personnel
+
+Procedure: Confined Space Communication Protocol
+Procedure ID: CONF-028
+Category: confined space
+Sample steps:
+1. Assess the confined space for hazards
+2. Use appropriate PPE
+3. Ensure communication with outside personnel
+
+Procedure: Confined Space Communication Protocol
+Procedure ID: CONF-022
+Category: confined space
+Sample steps:
+1. Assess the confined space for hazards
+2. Ensure communication with outside personnel
+3. Use appropriate PPE
+4. Monitor the atmosphere
+
+Source: osha_confined_space_quick_card.pdf
+Page: 1
+Reference excerpt:
+• Maintain contact at all times with a trained attendant either visually, via phone, or by two-way radio. This monitoring system enables the attendant and entry supervisor to order you to evacuate and to alert appropriately trained rescue personnel to rescue entrants when needed. You have a right to a safe workplace. If you have questions about workplace safety and health, call OSHA. It’s confidential. We can help! For more information: Occupational Safety and Health Administration www.osha.gov (800) 321-OSHA (6742) OSHA 3214-07R 2013
+
+Source: osha_confined_space_quick_card.pdf
+Page: 1
+Reference excerpt:
+What to Do • Do not enter permit-required confined spaces without being trained and without having a permit to enter. • Review, understand and follow employer’s procedures before entering permit-required confined spaces and know how and when to exit. • Before entry, identify any physical hazards. • Before and during entry, test and monitor for oxygen content, flammability, toxicity or explosive hazards as necessary. • Use employer’s fall protection, rescue, air-monitoring, ventilation, lighting and communication equipment according to entry procedures. • Maintain contact at all times with a trained attendant either visually, via phone, or by two-way radio.
+
+Retrieved sources: 2 sample procedure(s), 2 public-reference passage(s).",,
+What should be monitored in a confined space?,atmosphere monitoring,SUCCESS,"AI answer:
+Monitor the atmosphere
+
+Procedure: Confined Space Rescue Procedure
+Procedure ID: CONF-007
+Category: confined space
+Sample steps:
+1. Use appropriate PPE
+2. Monitor the atmosphere
+3. Assess the confined space for hazards
+
+Procedure: Confined Space Rescue Procedure
+Procedure ID: CONF-010
+Category: confined space
+Sample steps:
+1. Assess the confined space for hazards
+2. Use appropriate PPE
+3. Ensure communication with outside personnel
+
+Source: osha_confined_space_quick_card.pdf
+Page: 1
+Reference excerpt:
+• May contain a material which can engulf an entrant. • May contain walls that converge inward or floors that slope downward and taper into a smaller area which could trap or asphyxiate an entrant. • May contain other serious physical hazards such as unguarded machines or exposed live wires. • Must be identified by the employer who must inform exposed employees of the existence and location of such spaces and their hazards. What to Do • Do not enter permit-required confined spaces without being trained and without having a permit to enter.
+
+Source: osha_confined_space_quick_card.pdf
+Page: 1
+Reference excerpt:
+Permit-Required Confined Spaces QUICKCARD TM A confined space has limited openings for entry or exit, is large enough for entering and working, and is not designed for continuous worker occupancy. Confined spaces include underground vaults, tanks, storage bins, manholes, pits, silos, underground utility vaults and pipelines. See 29 CFR 1910.146. Permit-required confined spaces are confined spaces that: • May contain a hazardous or potentially hazardous atmosphere. • May contain a material which can engulf an entrant.
+
+Retrieved sources: 2 sample procedure(s), 2 public-reference passage(s).",,
+What do the available documents say about permits?,permits,SUCCESS,"AI answer:
+Took note of following guidelines:
+
+• Obtain necessary permits
+• Use appropriate PPE
+
+Procedure: Confined Space Rescue Procedure
+Procedure ID: CONF-031
+Category: confined space
+Sample steps:
+1. Obtain necessary permits
+2. Use appropriate PPE
+3. Assess the confined space for hazards
+4. Monitor the atmosphere
+
+Procedure: Confined Space Entry Procedure
+Procedure ID: CONF-019
+Category: confined space
+Sample steps:
+1. Monitor the atmosphere
+2. Ensure communication with outside personnel
+3. Obtain necessary permits
+4. Use appropriate PPE
+
+Source: osha_confined_space_quick_card.pdf
+Page: 1
+Reference excerpt:
+What to Do • Do not enter permit-required confined spaces without being trained and without having a permit to enter. • Review, understand and follow employer’s procedures before entering permit-required confined spaces and know how and when to exit. • Before entry, identify any physical hazards. • Before and during entry, test and monitor for oxygen content, flammability, toxicity or explosive hazards as necessary. • Use employer’s fall protection, rescue, air-monitoring, ventilation, lighting and communication equipment according to entry procedures. • Maintain contact at all times with a trained attendant either visually, via phone, or by two-way radio.
+
+Source: osha_confined_space_quick_card.pdf
+Page: 1
+Reference excerpt:
+• May contain a material which can engulf an entrant. • May contain walls that converge inward or floors that slope downward and taper into a smaller area which could trap or asphyxiate an entrant. • May contain other serious physical hazards such as unguarded machines or exposed live wires. • Must be identified by the employer who must inform exposed employees of the existence and location of such spaces and their hazards. What to Do • Do not enter permit-required confined spaces without being trained and without having a permit to enter.
+
+Retrieved sources: 2 sample procedure(s), 2 public-reference passage(s).",,
+What should workers do if atmospheric hazards are suspected?,atmospheric hazards,SUCCESS,"AI answer:
+Workers should use appropriate PPE, assess the confined space for hazards, and monitor the atmosphere before and during entry.
+
+Procedure: Confined Space Atmospheric Testing
+Procedure ID: CONF-025
+Category: confined space
+Sample steps:
+1. Use appropriate PPE
+2. Assess the confined space for hazards
+3. Monitor the atmosphere
+
+Procedure: Confined Space Atmospheric Testing
+Procedure ID: CONF-034
+Category: confined space
+Sample steps:
+1. Ensure communication with outside personnel
+2. Obtain necessary permits
+3. Use appropriate PPE
+
+Source: osha_confined_space_quick_card.pdf
+Page: 1
+Reference excerpt:
+Before and during entry, test and monitor for oxygen content, flammability, toxicity or explosive hazards as necessary.
+
+Source: osha_confined_space_quick_card.pdf
+Page: 1
+Reference excerpt:
+• Maintain contact at all times with a trained attendant either visually, via phone, or by two-way radio. This monitoring system enables the attendant and entry supervisor to order you to evacuate and to alert appropriately trained rescue personnel to rescue entrants when needed. You have a right to a safe workplace. If you have questions about workplace safety and health, call OSHA. It’s confidential. We can help! For more information: Occupational Safety and Health Administration www.osha.gov (800) 321-OSHA (6742) OSHA 3214-07R 2013
+
+Retrieved sources: 2 sample procedure(s), 2 public-reference passage(s).",,
+Which sample procedure covers confined space entry?,entry procedure,SUCCESS,"AI answer:
+Confined Space Entry Procedure
+
+Procedure: Confined Space Entry Procedure
+Procedure ID: CONF-013
+Category: confined space
+Sample steps:
+1. Assess the confined space for hazards
+2. Use appropriate PPE
+3. Ensure communication with outside personnel
+
+Procedure: Confined Space Entry Procedure
+Procedure ID: CONF-019
+Category: confined space
+Sample steps:
+1. Monitor the atmosphere
+2. Ensure communication with outside personnel
+3. Obtain necessary permits
+4. Use appropriate PPE
+
+Source: osha_confined_space_quick_card.pdf
+Page: 1
+Reference excerpt:
+Permit-Required Confined Spaces QUICKCARD TM A confined space has limited openings for entry or exit, is large enough for entering and working, and is not designed for continuous worker occupancy. Confined spaces include underground vaults, tanks, storage bins, manholes, pits, silos, underground utility vaults and pipelines. See 29 CFR 1910.146. Permit-required confined spaces are confined spaces that: • May contain a hazardous or potentially hazardous atmosphere. • May contain a material which can engulf an entrant.
+
+Source: osha_confined_space_quick_card.pdf
+Page: 1
+Reference excerpt:
+• May contain a material which can engulf an entrant. • May contain walls that converge inward or floors that slope downward and taper into a smaller area which could trap or asphyxiate an entrant. • May contain other serious physical hazards such as unguarded machines or exposed live wires. • Must be identified by the employer who must inform exposed employees of the existence and location of such spaces and their hazards. What to Do • Do not enter permit-required confined spaces without being trained and without having a permit to enter.
+
+Retrieved sources: 2 sample procedure(s), 2 public-reference passage(s).",,
+What equipment is mentioned for communication?,communication equipment,SUCCESS,"AI answer:
+Equipment mentioned for communication includes appropriate PPE and two-way radio.
+
+Procedure: Confined Space Communication Protocol
+Procedure ID: CONF-028
+Category: confined space
+Sample steps:
+1. Assess the confined space for hazards
+2. Use appropriate PPE
+3. Ensure communication with outside personnel
+
+Procedure: Confined Space Communication Protocol
+Procedure ID: CONF-022
+Category: confined space
+Sample steps:
+1. Assess the confined space for hazards
+2. Ensure communication with outside personnel
+3. Use appropriate PPE
+4. Monitor the atmosphere
+
+Source: osha_confined_space_quick_card.pdf
+Page: 1
+Reference excerpt:
+• Maintain contact at all times with a trained attendant either visually, via phone, or by two-way radio. This monitoring system enables the attendant and entry supervisor to order you to evacuate and to alert appropriately trained rescue personnel to rescue entrants when needed. You have a right to a safe workplace. If you have questions about workplace safety and health, call OSHA. It’s confidential. We can help! For more information: Occupational Safety and Health Administration www.osha.gov (800) 321-OSHA (6742) OSHA 3214-07R 2013
+
+Retrieved sources: 2 sample procedure(s), 1 public-reference passage(s).",,
+What is the company's approved emergency evacuation route?,no supporting information,SUCCESS,I couldn't verify the company's approved evacuation route from the available documents. Consult your organization's approved emergency plan or safety officer.,,
+What is the exact phone number of my workplace safety officer?,no supporting information,SUCCESS,I couldn't verify your workplace safety officer's phone number from the available documents. Contact your organization through its approved directory.,,

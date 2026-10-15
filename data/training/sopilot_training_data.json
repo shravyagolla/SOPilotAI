@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "Explain the procedure: Confined Space Communication Protocol",
+    "input": "Category: confined space\nDescription: Guidelines for confined space communication protocol",
+    "output": "Procedure: Confined Space Communication Protocol\nSteps:\n1. Use appropriate PPE\n2. Assess the confined space for hazards\n3. Obtain necessary permits\n4. Monitor the atmosphere"
+  },
+  {
+    "instruction": "What are the steps for Confined Space Communication Protocol?",
+    "input": "Procedure category: confined space",
+    "output": "1. Use appropriate PPE\n2. Assess the confined space for hazards\n3. Obtain necessary permits\n4. Monitor the atmosphere"
+  },
+  {
+    "instruction": "Explain the procedure: Scaffold Safety Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for scaffold safety procedure",
+    "output": "Procedure: Scaffold Safety Procedure\nSteps:\n1. Ensure fall protection gear is worn\n2. Maintain three points of contact\n3. Identify potential hazards\n4. Check equipment and anchor points"
+  },
+  {
+    "instruction": "What are the steps for Scaffold Safety Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Ensure fall protection gear is worn\n2. Maintain three points of contact\n3. Identify potential hazards\n4. Check equipment and anchor points"
+  },
+  {
+    "instruction": "Explain the procedure: Chemical Spill Response Procedure",
+    "input": "Category: chemical handling\nDescription: Guidelines for chemical spill response procedure",
+    "output": "Procedure: Chemical Spill Response Procedure\nSteps:\n1. Use proper ventilation\n2. Dispose of chemicals per regulations\n3. Label and store chemicals safely\n4. Review Safety Data Sheets (SDS)\n5. Wear appropriate chemical-resistant PPE"
+  },
+  {
+    "instruction": "What are the steps for Chemical Spill Response Procedure?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Use proper ventilation\n2. Dispose of chemicals per regulations\n3. Label and store chemicals safely\n4. Review Safety Data Sheets (SDS)\n5. Wear appropriate chemical-resistant PPE"
+  },
+  {
+    "instruction": "Explain the procedure: Advanced Confined Space Safety",
+    "input": "Category: confined space\nDescription: Guidelines for advanced confined space safety",
+    "output": "Procedure: Advanced Confined Space Safety\nSteps:\n1. Assess the confined space for hazards\n2. Monitor the atmosphere\n3. Use appropriate PPE\n4. Ensure communication with outside personnel"
+  },
+  {
+    "instruction": "What are the steps for Advanced Confined Space Safety?",
+    "input": "Procedure category: confined space",
+    "output": "1. Assess the confined space for hazards\n2. Monitor the atmosphere\n3. Use appropriate PPE\n4. Ensure communication with outside personnel"
+  },
+  {
+    "instruction": "Explain the procedure: Fall Protection Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for fall protection procedure",
+    "output": "Procedure: Fall Protection Procedure\nSteps:\n1. Ensure fall protection gear is worn\n2. Identify potential hazards\n3. Check equipment and anchor points\n4. Follow emergency rescue plan\n5. Maintain three points of contact"
+  },
+  {
+    "instruction": "What are the steps for Fall Protection Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Ensure fall protection gear is worn\n2. Identify potential hazards\n3. Check equipment and anchor points\n4. Follow emergency rescue plan\n5. Maintain three points of contact"
+  },
+  {
+    "instruction": "Explain the procedure: Chemical Mixing Safety Procedure",
+    "input": "Category: chemical handling\nDescription: Guidelines for chemical mixing safety procedure",
+    "output": "Procedure: Chemical Mixing Safety Procedure\nSteps:\n1. Use proper ventilation\n2. Dispose of chemicals per regulations\n3. Label and store chemicals safely\n4. Review Safety Data Sheets (SDS)"
+  },
+  {
+    "instruction": "What are the steps for Chemical Mixing Safety Procedure?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Use proper ventilation\n2. Dispose of chemicals per regulations\n3. Label and store chemicals safely\n4. Review Safety Data Sheets (SDS)"
+  },
+  {
+    "instruction": "Explain the procedure: Confined Space Rescue Procedure",
+    "input": "Category: confined space\nDescription: Guidelines for confined space rescue procedure",
+    "output": "Procedure: Confined Space Rescue Procedure\nSteps:\n1. Use appropriate PPE\n2. Monitor the atmosphere\n3. Assess the confined space for hazards"
+  },
+  {
+    "instruction": "What are the steps for Confined Space Rescue Procedure?",
+    "input": "Procedure category: confined space",
+    "output": "1. Use appropriate PPE\n2. Monitor the atmosphere\n3. Assess the confined space for hazards"
+  },
+  {
+    "instruction": "Explain the procedure: Working at Heights Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for working at heights procedure",
+    "output": "Procedure: Working at Heights Procedure\nSteps:\n1. Follow emergency rescue plan\n2. Maintain three points of contact\n3. Identify potential hazards\n4. Check equipment and anchor points\n5. Ensure fall protection gear is worn"
+  },
+  {
+    "instruction": "What are the steps for Working at Heights Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Follow emergency rescue plan\n2. Maintain three points of contact\n3. Identify potential hazards\n4. Check equipment and anchor points\n5. Ensure fall protection gear is worn"
+  },
+  {
+    "instruction": "Explain the procedure: Chemical Mixing Safety Procedure",
+    "input": "Category: chemical handling\nDescription: Guidelines for chemical mixing safety procedure",
+    "output": "Procedure: Chemical Mixing Safety Procedure\nSteps:\n1. Use proper ventilation\n2. Dispose of chemicals per regulations\n3. Label and store chemicals safely\n4. Wear appropriate chemical-resistant PPE\n5. Review Safety Data Sheets (SDS)"
+  },
+  {
+    "instruction": "What are the steps for Chemical Mixing Safety Procedure?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Use proper ventilation\n2. Dispose of chemicals per regulations\n3. Label and store chemicals safely\n4. Wear appropriate chemical-resistant PPE\n5. Review Safety Data Sheets (SDS)"
+  },
+  {
+    "instruction": "Explain the procedure: Confined Space Rescue Procedure",
+    "input": "Category: confined space\nDescription: Guidelines for confined space rescue procedure",
+    "output": "Procedure: Confined Space Rescue Procedure\nSteps:\n1. Assess the confined space for hazards\n2. Use appropriate PPE\n3. Ensure communication with outside personnel"
+  },
+  {
+    "instruction": "What are the steps for Confined Space Rescue Procedure?",
+    "input": "Procedure category: confined space",
+    "output": "1. Assess the confined space for hazards\n2. Use appropriate PPE\n3. Ensure communication with outside personnel"
+  },
+  {
+    "instruction": "Explain the procedure: Fall Protection Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for fall protection procedure",
+    "output": "Procedure: Fall Protection Procedure\nSteps:\n1. Identify potential hazards\n2. Ensure fall protection gear is worn\n3. Maintain three points of contact"
+  },
+  {
+    "instruction": "What are the steps for Fall Protection Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Identify potential hazards\n2. Ensure fall protection gear is worn\n3. Maintain three points of contact"
+  },
+  {
+    "instruction": "Explain the procedure: Hazardous Waste Disposal Procedure",
+    "input": "Category: chemical handling\nDescription: Guidelines for hazardous waste disposal procedure",
+    "output": "Procedure: Hazardous Waste Disposal Procedure\nSteps:\n1. Dispose of chemicals per regulations\n2. Use proper ventilation\n3. Label and store chemicals safely\n4. Review Safety Data Sheets (SDS)"
+  },
+  {
+    "instruction": "What are the steps for Hazardous Waste Disposal Procedure?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Dispose of chemicals per regulations\n2. Use proper ventilation\n3. Label and store chemicals safely\n4. Review Safety Data Sheets (SDS)"
+  },
+  {
+    "instruction": "Explain the procedure: Confined Space Entry Procedure",
+    "input": "Category: confined space\nDescription: Guidelines for confined space entry procedure",
+    "output": "Procedure: Confined Space Entry Procedure\nSteps:\n1. Assess the confined space for hazards\n2. Use appropriate PPE\n3. Ensure communication with outside personnel"
+  },
+  {
+    "instruction": "What are the steps for Confined Space Entry Procedure?",
+    "input": "Procedure category: confined space",
+    "output": "1. Assess the confined space for hazards\n2. Use appropriate PPE\n3. Ensure communication with outside personnel"
+  },
+  {
+    "instruction": "Explain the procedure: Ladder Safety Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for ladder safety procedure",
+    "output": "Procedure: Ladder Safety Procedure\nSteps:\n1. Ensure fall protection gear is worn\n2. Follow emergency rescue plan\n3. Maintain three points of contact\n4. Check equipment and anchor points"
+  },
+  {
+    "instruction": "What are the steps for Ladder Safety Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Ensure fall protection gear is worn\n2. Follow emergency rescue plan\n3. Maintain three points of contact\n4. Check equipment and anchor points"
+  },
+  {
+    "instruction": "Explain the procedure: Chemical Handling Procedure",
+    "input": "Category: chemical handling\nDescription: Guidelines for chemical handling procedure",
+    "output": "Procedure: Chemical Handling Procedure\nSteps:\n1. Use proper ventilation\n2. Dispose of chemicals per regulations\n3. Label and store chemicals safely\n4. Wear appropriate chemical-resistant PPE\n5. Review Safety Data Sheets (SDS)"
+  },
+  {
+    "instruction": "What are the steps for Chemical Handling Procedure?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Use proper ventilation\n2. Dispose of chemicals per regulations\n3. Label and store chemicals safely\n4. Wear appropriate chemical-resistant PPE\n5. Review Safety Data Sheets (SDS)"
+  },
+  {
+    "instruction": "Explain the procedure: Advanced Confined Space Safety",
+    "input": "Category: confined space\nDescription: Guidelines for advanced confined space safety",
+    "output": "Procedure: Advanced Confined Space Safety\nSteps:\n1. Ensure communication with outside personnel\n2. Monitor the atmosphere\n3. Assess the confined space for hazards\n4. Use appropriate PPE\n5. Obtain necessary permits"
+  },
+  {
+    "instruction": "What are the steps for Advanced Confined Space Safety?",
+    "input": "Procedure category: confined space",
+    "output": "1. Ensure communication with outside personnel\n2. Monitor the atmosphere\n3. Assess the confined space for hazards\n4. Use appropriate PPE\n5. Obtain necessary permits"
+  },
+  {
+    "instruction": "Explain the procedure: Roof Work Safety Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for roof work safety procedure",
+    "output": "Procedure: Roof Work Safety Procedure\nSteps:\n1. Follow emergency rescue plan\n2. Identify potential hazards\n3. Check equipment and anchor points"
+  },
+  {
+    "instruction": "What are the steps for Roof Work Safety Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Follow emergency rescue plan\n2. Identify potential hazards\n3. Check equipment and anchor points"
+  },
+  {
+    "instruction": "Explain the procedure: Hazardous Waste Disposal Procedure",
+    "input": "Category: chemical handling\nDescription: Guidelines for hazardous waste disposal procedure",
+    "output": "Procedure: Hazardous Waste Disposal Procedure\nSteps:\n1. Use proper ventilation\n2. Label and store chemicals safely\n3. Wear appropriate chemical-resistant PPE\n4. Review Safety Data Sheets (SDS)\n5. Dispose of chemicals per regulations"
+  },
+  {
+    "instruction": "What are the steps for Hazardous Waste Disposal Procedure?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Use proper ventilation\n2. Label and store chemicals safely\n3. Wear appropriate chemical-resistant PPE\n4. Review Safety Data Sheets (SDS)\n5. Dispose of chemicals per regulations"
+  },
+  {
+    "instruction": "Explain the procedure: Confined Space Entry Procedure",
+    "input": "Category: confined space\nDescription: Guidelines for confined space entry procedure",
+    "output": "Procedure: Confined Space Entry Procedure\nSteps:\n1. Monitor the atmosphere\n2. Ensure communication with outside personnel\n3. Obtain necessary permits\n4. Use appropriate PPE"
+  },
+  {
+    "instruction": "What are the steps for Confined Space Entry Procedure?",
+    "input": "Procedure category: confined space",
+    "output": "1. Monitor the atmosphere\n2. Ensure communication with outside personnel\n3. Obtain necessary permits\n4. Use appropriate PPE"
+  },
+  {
+    "instruction": "Explain the procedure: Scaffold Safety Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for scaffold safety procedure",
+    "output": "Procedure: Scaffold Safety Procedure\nSteps:\n1. Ensure fall protection gear is worn\n2. Check equipment and anchor points\n3. Identify potential hazards"
+  },
+  {
+    "instruction": "What are the steps for Scaffold Safety Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Ensure fall protection gear is worn\n2. Check equipment and anchor points\n3. Identify potential hazards"
+  },
+  {
+    "instruction": "Explain the procedure: Chemical Storage Safety",
+    "input": "Category: chemical handling\nDescription: Guidelines for chemical storage safety",
+    "output": "Procedure: Chemical Storage Safety\nSteps:\n1. Label and store chemicals safely\n2. Review Safety Data Sheets (SDS)\n3. Dispose of chemicals per regulations\n4. Wear appropriate chemical-resistant PPE"
+  },
+  {
+    "instruction": "What are the steps for Chemical Storage Safety?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Label and store chemicals safely\n2. Review Safety Data Sheets (SDS)\n3. Dispose of chemicals per regulations\n4. Wear appropriate chemical-resistant PPE"
+  },
+  {
+    "instruction": "Explain the procedure: Confined Space Communication Protocol",
+    "input": "Category: confined space\nDescription: Guidelines for confined space communication protocol",
+    "output": "Procedure: Confined Space Communication Protocol\nSteps:\n1. Assess the confined space for hazards\n2. Ensure communication with outside personnel\n3. Use appropriate PPE\n4. Monitor the atmosphere"
+  },
+  {
+    "instruction": "What are the steps for Confined Space Communication Protocol?",
+    "input": "Procedure category: confined space",
+    "output": "1. Assess the confined space for hazards\n2. Ensure communication with outside personnel\n3. Use appropriate PPE\n4. Monitor the atmosphere"
+  },
+  {
+    "instruction": "Explain the procedure: Working at Heights Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for working at heights procedure",
+    "output": "Procedure: Working at Heights Procedure\nSteps:\n1. Ensure fall protection gear is worn\n2. Follow emergency rescue plan\n3. Maintain three points of contact\n4. Identify potential hazards\n5. Check equipment and anchor points"
+  },
+  {
+    "instruction": "What are the steps for Working at Heights Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Ensure fall protection gear is worn\n2. Follow emergency rescue plan\n3. Maintain three points of contact\n4. Identify potential hazards\n5. Check equipment and anchor points"
+  },
+  {
+    "instruction": "Explain the procedure: Hazardous Waste Disposal Procedure",
+    "input": "Category: chemical handling\nDescription: Guidelines for hazardous waste disposal procedure",
+    "output": "Procedure: Hazardous Waste Disposal Procedure\nSteps:\n1. Use proper ventilation\n2. Dispose of chemicals per regulations\n3. Review Safety Data Sheets (SDS)"
+  },
+  {
+    "instruction": "What are the steps for Hazardous Waste Disposal Procedure?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Use proper ventilation\n2. Dispose of chemicals per regulations\n3. Review Safety Data Sheets (SDS)"
+  },
+  {
+    "instruction": "Explain the procedure: Confined Space Atmospheric Testing",
+    "input": "Category: confined space\nDescription: Guidelines for confined space atmospheric testing",
+    "output": "Procedure: Confined Space Atmospheric Testing\nSteps:\n1. Use appropriate PPE\n2. Assess the confined space for hazards\n3. Monitor the atmosphere"
+  },
+  {
+    "instruction": "What are the steps for Confined Space Atmospheric Testing?",
+    "input": "Procedure category: confined space",
+    "output": "1. Use appropriate PPE\n2. Assess the confined space for hazards\n3. Monitor the atmosphere"
+  },
+  {
+    "instruction": "Explain the procedure: Fall Protection Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for fall protection procedure",
+    "output": "Procedure: Fall Protection Procedure\nSteps:\n1. Maintain three points of contact\n2. Ensure fall protection gear is worn\n3. Follow emergency rescue plan"
+  },
+  {
+    "instruction": "What are the steps for Fall Protection Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Maintain three points of contact\n2. Ensure fall protection gear is worn\n3. Follow emergency rescue plan"
+  },
+  {
+    "instruction": "Explain the procedure: Chemical Spill Response Procedure",
+    "input": "Category: chemical handling\nDescription: Guidelines for chemical spill response procedure",
+    "output": "Procedure: Chemical Spill Response Procedure\nSteps:\n1. Label and store chemicals safely\n2. Wear appropriate chemical-resistant PPE\n3. Use proper ventilation"
+  },
+  {
+    "instruction": "What are the steps for Chemical Spill Response Procedure?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Label and store chemicals safely\n2. Wear appropriate chemical-resistant PPE\n3. Use proper ventilation"
+  },
+  {
+    "instruction": "Explain the procedure: Confined Space Communication Protocol",
+    "input": "Category: confined space\nDescription: Guidelines for confined space communication protocol",
+    "output": "Procedure: Confined Space Communication Protocol\nSteps:\n1. Assess the confined space for hazards\n2. Use appropriate PPE\n3. Ensure communication with outside personnel"
+  },
+  {
+    "instruction": "What are the steps for Confined Space Communication Protocol?",
+    "input": "Procedure category: confined space",
+    "output": "1. Assess the confined space for hazards\n2. Use appropriate PPE\n3. Ensure communication with outside personnel"
+  },
+  {
+    "instruction": "Explain the procedure: Fall Protection Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for fall protection procedure",
+    "output": "Procedure: Fall Protection Procedure\nSteps:\n1. Follow emergency rescue plan\n2. Ensure fall protection gear is worn\n3. Identify potential hazards\n4. Check equipment and anchor points\n5. Maintain three points of contact"
+  },
+  {
+    "instruction": "What are the steps for Fall Protection Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Follow emergency rescue plan\n2. Ensure fall protection gear is worn\n3. Identify potential hazards\n4. Check equipment and anchor points\n5. Maintain three points of contact"
+  },
+  {
+    "instruction": "Explain the procedure: Chemical Mixing Safety Procedure",
+    "input": "Category: chemical handling\nDescription: Guidelines for chemical mixing safety procedure",
+    "output": "Procedure: Chemical Mixing Safety Procedure\nSteps:\n1. Use proper ventilation\n2. Label and store chemicals safely\n3. Wear appropriate chemical-resistant PPE\n4. Review Safety Data Sheets (SDS)"
+  },
+  {
+    "instruction": "What are the steps for Chemical Mixing Safety Procedure?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Use proper ventilation\n2. Label and store chemicals safely\n3. Wear appropriate chemical-resistant PPE\n4. Review Safety Data Sheets (SDS)"
+  },
+  {
+    "instruction": "Explain the procedure: Confined Space Rescue Procedure",
+    "input": "Category: confined space\nDescription: Guidelines for confined space rescue procedure",
+    "output": "Procedure: Confined Space Rescue Procedure\nSteps:\n1. Obtain necessary permits\n2. Use appropriate PPE\n3. Assess the confined space for hazards\n4. Monitor the atmosphere"
+  },
+  {
+    "instruction": "What are the steps for Confined Space Rescue Procedure?",
+    "input": "Procedure category: confined space",
+    "output": "1. Obtain necessary permits\n2. Use appropriate PPE\n3. Assess the confined space for hazards\n4. Monitor the atmosphere"
+  },
+  {
+    "instruction": "Explain the procedure: Fall Protection Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for fall protection procedure",
+    "output": "Procedure: Fall Protection Procedure\nSteps:\n1. Follow emergency rescue plan\n2. Ensure fall protection gear is worn\n3. Identify potential hazards\n4. Check equipment and anchor points\n5. Maintain three points of contact"
+  },
+  {
+    "instruction": "What are the steps for Fall Protection Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Follow emergency rescue plan\n2. Ensure fall protection gear is worn\n3. Identify potential hazards\n4. Check equipment and anchor points\n5. Maintain three points of contact"
+  },
+  {
+    "instruction": "Explain the procedure: Chemical Spill Response Procedure",
+    "input": "Category: chemical handling\nDescription: Guidelines for chemical spill response procedure",
+    "output": "Procedure: Chemical Spill Response Procedure\nSteps:\n1. Label and store chemicals safely\n2. Review Safety Data Sheets (SDS)\n3. Use proper ventilation\n4. Dispose of chemicals per regulations\n5. Wear appropriate chemical-resistant PPE"
+  },
+  {
+    "instruction": "What are the steps for Chemical Spill Response Procedure?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Label and store chemicals safely\n2. Review Safety Data Sheets (SDS)\n3. Use proper ventilation\n4. Dispose of chemicals per regulations\n5. Wear appropriate chemical-resistant PPE"
+  },
+  {
+    "instruction": "Explain the procedure: Confined Space Atmospheric Testing",
+    "input": "Category: confined space\nDescription: Guidelines for confined space atmospheric testing",
+    "output": "Procedure: Confined Space Atmospheric Testing\nSteps:\n1. Ensure communication with outside personnel\n2. Obtain necessary permits\n3. Use appropriate PPE"
+  },
+  {
+    "instruction": "What are the steps for Confined Space Atmospheric Testing?",
+    "input": "Procedure category: confined space",
+    "output": "1. Ensure communication with outside personnel\n2. Obtain necessary permits\n3. Use appropriate PPE"
+  },
+  {
+    "instruction": "Explain the procedure: Ladder Safety Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for ladder safety procedure",
+    "output": "Procedure: Ladder Safety Procedure\nSteps:\n1. Identify potential hazards\n2. Follow emergency rescue plan\n3. Maintain three points of contact\n4. Check equipment and anchor points\n5. Ensure fall protection gear is worn"
+  },
+  {
+    "instruction": "What are the steps for Ladder Safety Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Identify potential hazards\n2. Follow emergency rescue plan\n3. Maintain three points of contact\n4. Check equipment and anchor points\n5. Ensure fall protection gear is worn"
+  },
+  {
+    "instruction": "Explain the procedure: Chemical Handling Procedure",
+    "input": "Category: chemical handling\nDescription: Guidelines for chemical handling procedure",
+    "output": "Procedure: Chemical Handling Procedure\nSteps:\n1. Dispose of chemicals per regulations\n2. Review Safety Data Sheets (SDS)\n3. Wear appropriate chemical-resistant PPE\n4. Label and store chemicals safely"
+  },
+  {
+    "instruction": "What are the steps for Chemical Handling Procedure?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Dispose of chemicals per regulations\n2. Review Safety Data Sheets (SDS)\n3. Wear appropriate chemical-resistant PPE\n4. Label and store chemicals safely"
+  },
+  {
+    "instruction": "Explain the procedure: Advanced Confined Space Safety",
+    "input": "Category: confined space\nDescription: Guidelines for advanced confined space safety",
+    "output": "Procedure: Advanced Confined Space Safety\nSteps:\n1. Use appropriate PPE\n2. Obtain necessary permits\n3. Monitor the atmosphere\n4. Ensure communication with outside personnel\n5. Assess the confined space for hazards"
+  },
+  {
+    "instruction": "What are the steps for Advanced Confined Space Safety?",
+    "input": "Procedure category: confined space",
+    "output": "1. Use appropriate PPE\n2. Obtain necessary permits\n3. Monitor the atmosphere\n4. Ensure communication with outside personnel\n5. Assess the confined space for hazards"
+  },
+  {
+    "instruction": "Explain the procedure: Roof Work Safety Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for roof work safety procedure",
+    "output": "Procedure: Roof Work Safety Procedure\nSteps:\n1. Ensure fall protection gear is worn\n2. Maintain three points of contact\n3. Check equipment and anchor points\n4. Identify potential hazards\n5. Follow emergency rescue plan"
+  },
+  {
+    "instruction": "What are the steps for Roof Work Safety Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Ensure fall protection gear is worn\n2. Maintain three points of contact\n3. Check equipment and anchor points\n4. Identify potential hazards\n5. Follow emergency rescue plan"
+  },
+  {
+    "instruction": "Explain the procedure: Chemical Handling Procedure",
+    "input": "Category: chemical handling\nDescription: Guidelines for chemical handling procedure",
+    "output": "Procedure: Chemical Handling Procedure\nSteps:\n1. Dispose of chemicals per regulations\n2. Review Safety Data Sheets (SDS)\n3. Wear appropriate chemical-resistant PPE\n4. Label and store chemicals safely"
+  },
+  {
+    "instruction": "What are the steps for Chemical Handling Procedure?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Dispose of chemicals per regulations\n2. Review Safety Data Sheets (SDS)\n3. Wear appropriate chemical-resistant PPE\n4. Label and store chemicals safely"
+  },
+  {
+    "instruction": "Explain the procedure: Confined Space Rescue Procedure",
+    "input": "Category: confined space\nDescription: Guidelines for confined space rescue procedure",
+    "output": "Procedure: Confined Space Rescue Procedure\nSteps:\n1. Ensure communication with outside personnel\n2. Assess the confined space for hazards\n3. Monitor the atmosphere\n4. Use appropriate PPE"
+  },
+  {
+    "instruction": "What are the steps for Confined Space Rescue Procedure?",
+    "input": "Procedure category: confined space",
+    "output": "1. Ensure communication with outside personnel\n2. Assess the confined space for hazards\n3. Monitor the atmosphere\n4. Use appropriate PPE"
+  },
+  {
+    "instruction": "Explain the procedure: Roof Work Safety Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for roof work safety procedure",
+    "output": "Procedure: Roof Work Safety Procedure\nSteps:\n1. Maintain three points of contact\n2. Follow emergency rescue plan\n3. Check equipment and anchor points\n4. Identify potential hazards"
+  },
+  {
+    "instruction": "What are the steps for Roof Work Safety Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Maintain three points of contact\n2. Follow emergency rescue plan\n3. Check equipment and anchor points\n4. Identify potential hazards"
+  },
+  {
+    "instruction": "Explain the procedure: Chemical Spill Response Procedure",
+    "input": "Category: chemical handling\nDescription: Guidelines for chemical spill response procedure",
+    "output": "Procedure: Chemical Spill Response Procedure\nSteps:\n1. Review Safety Data Sheets (SDS)\n2. Wear appropriate chemical-resistant PPE\n3. Label and store chemicals safely"
+  },
+  {
+    "instruction": "What are the steps for Chemical Spill Response Procedure?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Review Safety Data Sheets (SDS)\n2. Wear appropriate chemical-resistant PPE\n3. Label and store chemicals safely"
+  },
+  {
+    "instruction": "Explain the procedure: Advanced Confined Space Safety",
+    "input": "Category: confined space\nDescription: Guidelines for advanced confined space safety",
+    "output": "Procedure: Advanced Confined Space Safety\nSteps:\n1. Use appropriate PPE\n2. Ensure communication with outside personnel\n3. Assess the confined space for hazards"
+  },
+  {
+    "instruction": "What are the steps for Advanced Confined Space Safety?",
+    "input": "Procedure category: confined space",
+    "output": "1. Use appropriate PPE\n2. Ensure communication with outside personnel\n3. Assess the confined space for hazards"
+  },
+  {
+    "instruction": "Explain the procedure: Ladder Safety Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for ladder safety procedure",
+    "output": "Procedure: Ladder Safety Procedure\nSteps:\n1. Follow emergency rescue plan\n2. Maintain three points of contact\n3. Check equipment and anchor points"
+  },
+  {
+    "instruction": "What are the steps for Ladder Safety Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Follow emergency rescue plan\n2. Maintain three points of contact\n3. Check equipment and anchor points"
+  },
+  {
+    "instruction": "Explain the procedure: Chemical Storage Safety",
+    "input": "Category: chemical handling\nDescription: Guidelines for chemical storage safety",
+    "output": "Procedure: Chemical Storage Safety\nSteps:\n1. Dispose of chemicals per regulations\n2. Review Safety Data Sheets (SDS)\n3. Label and store chemicals safely"
+  },
+  {
+    "instruction": "What are the steps for Chemical Storage Safety?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Dispose of chemicals per regulations\n2. Review Safety Data Sheets (SDS)\n3. Label and store chemicals safely"
+  },
+  {
+    "instruction": "Explain the procedure: Confined Space Communication Protocol",
+    "input": "Category: confined space\nDescription: Guidelines for confined space communication protocol",
+    "output": "Procedure: Confined Space Communication Protocol\nSteps:\n1. Monitor the atmosphere\n2. Use appropriate PPE\n3. Assess the confined space for hazards\n4. Obtain necessary permits"
+  },
+  {
+    "instruction": "What are the steps for Confined Space Communication Protocol?",
+    "input": "Procedure category: confined space",
+    "output": "1. Monitor the atmosphere\n2. Use appropriate PPE\n3. Assess the confined space for hazards\n4. Obtain necessary permits"
+  },
+  {
+    "instruction": "Explain the procedure: Working at Heights Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for working at heights procedure",
+    "output": "Procedure: Working at Heights Procedure\nSteps:\n1. Ensure fall protection gear is worn\n2. Check equipment and anchor points\n3. Maintain three points of contact\n4. Identify potential hazards\n5. Follow emergency rescue plan"
+  },
+  {
+    "instruction": "What are the steps for Working at Heights Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Ensure fall protection gear is worn\n2. Check equipment and anchor points\n3. Maintain three points of contact\n4. Identify potential hazards\n5. Follow emergency rescue plan"
+  },
+  {
+    "instruction": "Explain the procedure: Chemical Spill Response Procedure",
+    "input": "Category: chemical handling\nDescription: Guidelines for chemical spill response procedure",
+    "output": "Procedure: Chemical Spill Response Procedure\nSteps:\n1. Wear appropriate chemical-resistant PPE\n2. Review Safety Data Sheets (SDS)\n3. Dispose of chemicals per regulations\n4. Use proper ventilation\n5. Label and store chemicals safely"
+  },
+  {
+    "instruction": "What are the steps for Chemical Spill Response Procedure?",
+    "input": "Procedure category: chemical handling",
+    "output": "1. Wear appropriate chemical-resistant PPE\n2. Review Safety Data Sheets (SDS)\n3. Dispose of chemicals per regulations\n4. Use proper ventilation\n5. Label and store chemicals safely"
+  },
+  {
+    "instruction": "Explain the procedure: Confined Space Rescue Procedure",
+    "input": "Category: confined space\nDescription: Guidelines for confined space rescue procedure",
+    "output": "Procedure: Confined Space Rescue Procedure\nSteps:\n1. Monitor the atmosphere\n2. Obtain necessary permits\n3. Assess the confined space for hazards\n4. Use appropriate PPE\n5. Ensure communication with outside personnel"
+  },
+  {
+    "instruction": "What are the steps for Confined Space Rescue Procedure?",
+    "input": "Procedure category: confined space",
+    "output": "1. Monitor the atmosphere\n2. Obtain necessary permits\n3. Assess the confined space for hazards\n4. Use appropriate PPE\n5. Ensure communication with outside personnel"
+  },
+  {
+    "instruction": "Explain the procedure: Scaffold Safety Procedure",
+    "input": "Category: working at heights\nDescription: Guidelines for scaffold safety procedure",
+    "output": "Procedure: Scaffold Safety Procedure\nSteps:\n1. Check equipment and anchor points\n2. Identify potential hazards\n3. Ensure fall protection gear is worn\n4. Follow emergency rescue plan\n5. Maintain three points of contact"
+  },
+  {
+    "instruction": "What are the steps for Scaffold Safety Procedure?",
+    "input": "Procedure category: working at heights",
+    "output": "1. Check equipment and anchor points\n2. Identify potential hazards\n3. Ensure fall protection gear is worn\n4. Follow emergency rescue plan\n5. Maintain three points of contact"
+  }
+]
